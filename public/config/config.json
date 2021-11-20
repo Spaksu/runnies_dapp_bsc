@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0xecd093ed38449d8d64bb015d97072bdcaa594832",
-  "SCAN_LINK": "https://polygonscan.com/token/0xecd093ed38449d8d64bb015d97072bdcaa594832",
+  "CONTRACT_ADDRESS": "0xab6e76bde2bA179ae01571d0A672f1AdF9EbAC90",
+  "SCAN_LINK": "https://bscscan.com/address/0xab6e76bde2bA179ae01571d0A672f1AdF9EbAC90",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
   },
   "NFT_NAME": "Runnies",
   "SYMBOL": "RUNNY",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 100000000000000000,
-  "DISPLAY_COST": 0.1,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/runnies",

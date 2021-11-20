@@ -1,10 +1,11 @@
 {
-  "name": "spaksu_runnies_minting_dapp",
+  "name": "spaksu_runnies_bsc_minting_dapp",
   "version": "1.0.0",
-  "homepage": "https://spaksu.github.io/runnies_dapp",
-  "description": "Runnies Minting NFTs Dapp",
+  "homepage": "https://spaksu.github.io/runnies_dapp_bsc",
+  "description": "Runnies Minting NFTs Dapp On BSC",
   "private": true,
   "dependencies": {
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.4",

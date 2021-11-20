@@ -175,7 +175,7 @@ function App() {
   };
 
   const getConfig = async () => {
-    const configResponse = await fetch("/runnies_dapp/config/config.json", {
+    const configResponse = await fetch("/runnies_dapp_bsc/config/config.json", {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json",
@@ -199,9 +199,9 @@ function App() {
         flex={1}
         ai={"center"}
         style={{ padding: 24, backgroundColor: "var(--primary)" }}
-        image={CONFIG.SHOW_BACKGROUND ? "/runnies_dapp/config/images/bg.png" : null}
+        image={CONFIG.SHOW_BACKGROUND ? "/runnies_dapp_bsc/config/images/bg.png" : null}
       >
-        <StyledLogo alt={"logo"} src={"/runnies_dapp/config/images/logo.png"} />
+        <StyledLogo alt={"logo"} src={"/runnies_dapp_bsc/config/images/logo.png"} />
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 44 }} test>
           <s.Container flex={1} jc={"center"} ai={"center"}>
@@ -373,7 +373,7 @@ function App() {
           <s.Container flex={1} jc={"center"} ai={"center"}>
             <StyledImg
               alt={"example"}
-              src={"/runnies_dapp/config/images/example.gif"}
+              src={"/runnies_dapp_bsc/config/images/example.gif"}
               style={{ transform: "scaleX(-1)" }}
             />
           </s.Container>

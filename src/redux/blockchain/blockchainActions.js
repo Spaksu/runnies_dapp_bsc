@@ -34,14 +34,14 @@ const updateAccountRequest = (payload) => {
 export const connect = () => {
   return async (dispatch) => {
     dispatch(connectRequest());
-    const abiResponse = await fetch("/runnies_dapp/config/abi.json", {
+    const abiResponse = await fetch("/runnies_dapp_bsc/config/abi.json", {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json",
       },
     });
     const abi = await abiResponse.json();
-    const configResponse = await fetch("/runnies_dapp/config/config.json", {
+    const configResponse = await fetch("/runnies_dapp_bsc/config/config.json", {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json",

@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xab6e76bde2bA179ae01571d0A672f1AdF9EbAC90",
+  "SCAN_LINK": "https://bscscan.com/address/0xab6e76bde2bA179ae01571d0A672f1AdF9EbAC90",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Runnies",
+  "SYMBOL": "RUNNY",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/runnies",
+  "SHOW_BACKGROUND": false
+}
