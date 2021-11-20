@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/runnies_dapp_bsc/static/css/main.c97ecec1.chunk.css",
+    "main.js": "/runnies_dapp_bsc/static/js/main.e696f504.chunk.js",
+    "main.js.map": "/runnies_dapp_bsc/static/js/main.e696f504.chunk.js.map",
+    "runtime-main.js": "/runnies_dapp_bsc/static/js/runtime-main.602e6dd5.js",
+    "runtime-main.js.map": "/runnies_dapp_bsc/static/js/runtime-main.602e6dd5.js.map",
+    "static/js/2.b90281b7.chunk.js": "/runnies_dapp_bsc/static/js/2.b90281b7.chunk.js",
+    "static/js/2.b90281b7.chunk.js.map": "/runnies_dapp_bsc/static/js/2.b90281b7.chunk.js.map",
+    "static/js/3.4b09ce2d.chunk.js": "/runnies_dapp_bsc/static/js/3.4b09ce2d.chunk.js",
+    "static/js/3.4b09ce2d.chunk.js.map": "/runnies_dapp_bsc/static/js/3.4b09ce2d.chunk.js.map",
+    "index.html": "/runnies_dapp_bsc/index.html",
+    "static/css/main.c97ecec1.chunk.css.map": "/runnies_dapp_bsc/static/css/main.c97ecec1.chunk.css.map",
+    "static/js/2.b90281b7.chunk.js.LICENSE.txt": "/runnies_dapp_bsc/static/js/2.b90281b7.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/runnies_dapp_bsc/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.602e6dd5.js",
+    "static/js/2.b90281b7.chunk.js",
+    "static/css/main.c97ecec1.chunk.css",
+    "static/js/main.e696f504.chunk.js"
+  ]
+}
